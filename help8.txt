@@ -1,0 +1,18 @@
+╔═〖群組指令〗
+╠【tg:gid】查群組成員
+╠【tgm:gid】査群組成員MID
+╠【te:gid】查詢群組邀請中
+╠【rg】群組資訊
+╠【gc:gid】查詢群組資訊
+╠【ginfo:gid】查詢群組資訊
+╠【ginfo】群組資訊
+╠【gn 】更改群名
+╠【join:】設定入群回覆
+╠【joindel】刪除入群回覆
+╠【jointest】測試入群回覆
+╠【rgall】群組全標
+╠【ro】開網址
+╠【rc】關網址
+╠【ru】丟網址
+╠【gid】當前群組GID當前群組GID
+╚═〖群組指令〗

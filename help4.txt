@@ -1,0 +1,22 @@
+╔═〖各式開關〗
+╠【rt on/off】智障功能勿開
+╠【rd on/off】自動已讀
+╠【red on/off】開關副讀
+╠【rdd on/off】自動加友
+╠【raj on/off】自動進群
+╠【rqj on/off】網址進群
+╠【ral on/off】自離副本
+╠【rc on/off】踢人顯示
+╠【rj on/off】入群通知
+╠【rl on/off】退群通知
+╠【rm on/off】標住通知
+╠【rop on/off】踢人保護
+╠【rip on/off】邀請保護
+╠【rqp on/off】網址保護
+╠【rk on/off】入群保護
+╠【war on/off】群組戰爭
+╠【iv on/off】回邀保護
+╠【kiv on/off】踢回邀保護
+╠【mid on/off】友資查mid
+╠【ck on/off】貼圖查詢
+╚═〖各式開關〗

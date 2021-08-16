@@ -1,0 +1,31 @@
+{
+    "account": "salpoz@tempmail.uk",
+    "alloff": "jsoff",
+    "allon": "json",
+    "cmdkick": "0.0",
+    "creator": "u254dfd61813fb39079e53955de64c6d0","u47c4acdad273c49a92b8e689d07f80c8"
+    "dio": "c48fd09edb2859977349fff0b0f09283a","u254dfd61813fb39079e53955de64c6d0"
+    "error": "u254dfd61813fb39079e53955de64c6d0","c48fd09edb2859977349fff0b0f09283a"
+    "filename": "kevin",
+    "ivoff": "iv off",
+    "ivon": "iv on",
+    "jkoff": [
+        "rk off",
+        "def off"
+    ],
+    "jkon": [
+        "rk on",
+        "def on"
+    ],
+    "kick": "???",
+    "kivoff": "kiv off",
+    "kivon": "kiv on",
+    "owner": "u254dfd61813fb39079e53955de64c6d0","u47c4acdad273c49a92b8e689d07f80c8"
+    "owners": "u254dfd61813fb39079e53955de64c6d0","u47c4acdad273c49a92b8e689d07f80c8"
+    "passwd": "abc12345",
+    "rbye": "rbye",
+    "update": "特殊拆(自動開進群踢)\n收回格式更新\n收回地點辨識\n登入寫法更新\nAPI優化\n進群踢、群內戰爭線程化\n廣播系統更新\n登入介面更新\n權限表、無視表、踢人名單格式更新\n入群歡迎寫法更新\n其餘bug修復\n當機文過濾\n指令表更新",
+    "version": "ver7.0",
+    "waroff": "war off",
+    "waron": "war on"
+}

@@ -1,0 +1,15 @@
+{
+    "admin": [
+        "",
+        "u254dfd61813fb39079e53955de64c6d0",
+        "ud92de57dce195b09fb5f1efbbe224278"
+
+    ],
+    "banlist": {}
+    "clist": {}
+    "tlist": {
+        "mid": true,
+        "u254dfd61813fb39079e53955de64c6d0": true,
+        "ud92de57dce195b09fb5f1efbbe224278": true
+    }
+}
